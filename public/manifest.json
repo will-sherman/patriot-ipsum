@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Patriot Ipsum",
+  "name": "Flam packaged random text generator from the TV show Patriot",
   "icons": [
     {
       "src": "favicon.ico",

@@ -1,0 +1,23 @@
+.Button {
+    color: #09090a;
+    margin: 0 2rem 0 2rem;
+    padding: 0rem;
+    background-color: #126d81;
+    height: 4rem;
+    width: 7rem;
+    text-decoration: none;
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+.Button:hover {
+    background-color: #299cb6;
+}
+
+.Button:focus {
+    outline: none;
+}
+
+  
